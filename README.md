@@ -1,0 +1,3 @@
+In the realm of data visualization, presenting real-time data in an intuitive and insightful manner is often a challenge, especially when working with physical hardware. This project is designed to address the need for visualizing sensor data dynamically. By using an Arduino Uno and an ultrasonic sensor to measure distances between objects, the data is then passed into Python for visualization.
+
+The primary goal of this project is to create a seamless process for capturing, processing, and visualizing real-time distance measurements, making the data accessible and understandable for further analysis or application in various fields such as robotics, automation, and smart systems.
